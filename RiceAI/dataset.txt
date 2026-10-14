@@ -1,0 +1,7 @@
+https://www.kaggle.com/datasets/anshulm257/rice-disease-dataset?select=Rice_Leaf_AUG
+https://data.mendeley.com/datasets/8nzpnwkncp/1
+https://github.com/aldrin233/RiceDiseases-DataSet
+https://datasetninja.com/rice-disease
+https://www.kaggle.com/datasets/maimunulkjisan/rice-leaf-dataset-from-mendeley-data
+https://data.mendeley.com/datasets/jw7hp6r5gj/1
+https://www.kaggle.com/datasets/nirmalsankalana/rice-leaf-disease-image

@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+.envdata_split/**/*.jpg
+data_split/**/*.jpeg
+data_split/**/*.png
+data_split/**/*.JPG
+data_split/**/*.JPEG
+data_split/**/*.PNG

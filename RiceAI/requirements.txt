@@ -1,0 +1,8 @@
+torch==2.5.1
+torchvision
+torchaudio
+Pillow==12.3.0
+matplotlib==3.11.2
+scikit-learn==1.9.1
+scipy==1.17.1
+tqdm==4.70.1
